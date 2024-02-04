@@ -2,6 +2,8 @@ I undertook this small project to deepen my understanding of AWS cloud operation
 
 The Cloud Resume Challenge: https://cloudresumechallenge.dev/
 
+Site: https://my-cloud-project.com/
+
 AWS Services Utilized:
 
     S3: Hosting the website.
