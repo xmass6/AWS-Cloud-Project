@@ -7,7 +7,7 @@ Site: https://my-cloud-project.com/
 AWS Services Utilized:
 
     S3: Hosting the website.
-    CloudFront: Efficient traffic flow with Origin Access Identity (OAC) enabled.
+    CloudFront: Efficient traffic flow with Origin Access Control (OAC) enabled.
     Route 53: Domain registration.
     Certificate Manager (ACM): Creation and maintenance of SSL/TLS certificates for the domain.
     Lambda: Python script employed to update the website's visitor count value.
